@@ -3,7 +3,7 @@ Projects
 
 Welcome to my projects subpage! Here, I showcase the different projects I have completed, demonstrating my ability to solve problems and create functional applications using various programming languages. Throughout my journey, I have undertaken several hands-on projects, ranging from small utilities and web applications to more complex algorithms and data structure implementations.
 
-## 1. [Angular-Todo](https://github.com/your-username/angular-todo)
+## 1. [Angular-Todo](https://github.com/users/Eduardoreisboattini/projects/3)
 
 - Description: A simple to-do application built using Angular framework. Users can add, edit, and delete tasks, and mark them as completed.
 - Technologies: Angular, TypeScript, HTML, CSS.
